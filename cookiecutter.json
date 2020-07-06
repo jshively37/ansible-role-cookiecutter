@@ -1,7 +1,7 @@
 {
     "full_name": "Jeff Shively",
     "email": "jeffrey.shively@wwt.com",
-    "role": "f5_create_users",
+    "reponame": "f5_create_users",
     "short_description": "Add/Delete/Modify F5 users",
     "github_handle": "jshively37",
     "company": "World Wide Technology",
