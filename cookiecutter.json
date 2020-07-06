@@ -1,5 +1,5 @@
 {
-    "full_name": "Jeff Shively",
+    "author_name": "Jeff Shively",
     "email": "jeffrey.shively@wwt.com",
     "repo_name": "f5_create_users",
     "short_description": "Add/Delete/Modify F5 users",
