@@ -1,7 +1,7 @@
 Ansible Role {{cookiecutter.repo_name}}
 =========
 
-{{cookiercutter.short_description}}
+{{cookiecutter.short_description}}
 
 Requirements
 ------------
