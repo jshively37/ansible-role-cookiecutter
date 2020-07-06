@@ -1,7 +1,7 @@
-Ansible Role {{cookiecutter.repo_name}}
+Ansible Role {{ cookiecutter.repo_name }}
 =========
 
-{{cookiecutter.short_description}}
+{{ cookiecutter.short_description }}
 
 Requirements
 ------------
@@ -16,8 +16,8 @@ A description of the settable variables for this role should go here, including 
 Dependencies
 ------------
 
-Python version: {{cookiecutter.python_version}}
-Ansible version: {{cookiecutter.ansible_version}}
+Python version: {{ cookiecutter.python_version }}
+Ansible version: {{ cookiecutter.ansible_version }}
 
 Example Playbook
 ----------------
@@ -31,7 +31,7 @@ Including an example of how to use your role (for instance, with variables passe
 Author Information
 ------------------
 
-Author: {{cookiecutter.author_name}}
-E-mail: {{cookiecutter.email}}
-Company: {{cookiecutter.company_name}}
-Github Username: {{cookiecutter.github_handle}}
+Author: {{ cookiecutter.author_name }}
+E-mail: {{ cookiecutter.email }}
+Company: {{ cookiecutter.company_name }}
+Github Username: {{ cookiecutter.github_handle }}
