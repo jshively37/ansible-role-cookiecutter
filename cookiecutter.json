@@ -4,7 +4,7 @@
     "repo_name": "f5_create_users",
     "short_description": "Add/Delete/Modify F5 users",
     "github_handle": "jshively37",
-    "company": "World Wide Technology",
+    "company_name": "World Wide Technology",
     "python_version": "3.8.2",
     "ansible_version": "2.9.9"
 }
