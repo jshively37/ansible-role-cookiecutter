@@ -6,5 +6,6 @@
     "github_handle": "jshively37",
     "company_name": "World Wide Technology",
     "python_version": "3.8.2",
-    "ansible_version": "2.9.9"
+    "ansible_version": "2.9.9",
+    "license": "TBD"
 }
